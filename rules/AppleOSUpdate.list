@@ -1,0 +1,43 @@
+# ios、macos 更新系统使用的主机域名
+# 参考 https://support.apple.com/zh-cn/HT210060
+
+# 【iOS、iPadOS、Apple tvOS、watchOS、macOS】托管软件更新目录
+DOMAIN,mesu.apple.com
+
+
+# 【iOS、iPadOS、Apple tvOS、macOS】 供 MDM 服务器用来识别使用“被管理的软件更新”的设备有哪些可用的软件更新
+DOMAIN,gdmf.apple.com
+
+# 【iOS、iPadOS、Apple tvOS、macOS】软件更新下载
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,updates.cdn-apple.com
+DOMAIN,xp.apple.com
+
+# 【iOS、iPadOS、Apple tvOS、macOS】证书验证
+DOMAIN,ocsp.apple.com
+
+
+# 暂不启用，没有来源证实，但有网友反馈是更新环节的域名
+#DOMAIN,world-gen.g.aaplimg.com
+
+
+# 【iOS、iPadOS、watchOS】iOS、iPadOS 和 watchOS 更新  && 【iOS 、iPadOS】蜂窝网络运营商捆绑包更新
+DOMAIN,appldnld.apple.com
+
+
+# 【iOS、iPadOS、Apple tvOS、watchOS、macOS】iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
+DOMAIN,gg.apple.com
+DOMAIN,gs.apple.com
+
+
+# 【仅限 macOS】macos 更新专用域名，macOS 更新
+DOMAIN,ig.apple.com
+DOMAIN,skl.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,swdist.apple.com
+DOMAIN,swdownload.apple.com
+DOMAIN,swscan.apple.com
+
+
+# 【iOS、iPadOS、Apple tvOS、watchOS、macOS】系统预览版 OS Beta 版更新注册
+DOMAIN,bpapi.apple.com
