@@ -18,5 +18,6 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,gptstores.store
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
