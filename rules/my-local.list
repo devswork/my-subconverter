@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,mastercard.com
-DOMAIN,download-cdn.jetbrains.com
+
+# 下载会很慢，还是要代理出去
+#DOMAIN,download-cdn.jetbrains.com
 
 
