@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,mastercard.com
 #DOMAIN,download-cdn.jetbrains.com
 
 # 22 端口SSH、git 类需要直连
-DST-PORT,22,DIRECT
+DST-PORT,22
 
 
 
