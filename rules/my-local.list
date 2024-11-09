@@ -4,11 +4,8 @@ DOMAIN-SUFFIX,mastercard.com
 # 下载会很慢，还是要代理出去
 #DOMAIN,download-cdn.jetbrains.com
 
-# 22 端口SSH、git 类需要直连
-DST-PORT,22
-
 # 国内无污染DOH
 DOMAIN,doh.apad.pro
 
-
+DOMAIN-SUFFIX,push.apple.com
 
